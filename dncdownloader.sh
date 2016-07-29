@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# curl -OJL https://wikileaks.org/dnc-emails//get/<id-here>
-# IDs range from [1, 22456]
 mkdir dnc-emails
 cd dnc-emails
 
